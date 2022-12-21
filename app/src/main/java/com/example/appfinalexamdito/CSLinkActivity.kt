@@ -34,4 +34,16 @@ class CSLinkActivity : AppCompatActivity() {
             })
     }
 
+    fun toCacti(view: View){
+        //berfungsi membuat variabel url dan diisi dengan String url artikel
+        var url = "http://119.2.54.54/cacti";
+        //berfungsi untuk membuat intent implicit
+        startActivity(
+            Intent(Intent.ACTION_VIEW).apply
+            {
+                //untuk memanggil fungsi parse pada class Uri dengan parameter isi dari variabel url
+                data = Uri.parse(url)
+            })
+    }
+
 }

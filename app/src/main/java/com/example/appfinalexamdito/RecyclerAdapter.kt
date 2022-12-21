@@ -19,22 +19,26 @@ import kotlinx.android.synthetic.main.activity_main.*
 class RecyclerAdapter: RecyclerView.Adapter<RecyclerAdapter.ViewHolder>() {
     //image list
     private val images = intArrayOf(
-        R.drawable.cardview,
-        R.drawable.cardview2
+        R.drawable.fcarddone,
+        R.drawable.fcarddone,
+        R.drawable.fcarddc
     )
     //title list
     private val titles = arrayOf(
         "Graylog",
+        "Cacti",
         "PySpark"
     )
     //detail list
     private val details = arrayOf(
         "Dito's Centralization Log Project, this project is how dito have solution, if the hacker get into server and then install malicious software, and remove log" +
                 "so the IRT ( or also know as  Incident Response Team )  can trace the server's log within  this centralization log",
+        "Dito's Network Monitoring System, this server is one off dito's project, This project serves to provide network engineers to monitor traffic, latency, resources on a device. so that network engineers can perform early detection, preventive and even troubleshoot network problems",
         "Big Data Management system , and this second one isn't dito's project, but dito's assignment from Infrastucture Big Data's lecturer"
     )
     val linkked = arrayOf(
         "http://111.68.24.246:9000/",
+        "http://119.2.54.54.8082/cacti",
         "http://111.68.24.246:8888/lab?token=cafaa1c638c348862dbbc46dc590dff0f9af68f4e6b7cc85"
     )
 

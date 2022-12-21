@@ -46,7 +46,7 @@
 
     <Button
         android:id="@+id/LinkPySparkButton"
-        android:text="PySpark - BigData Management"
+        android:text="PySpark - BigData Management ( Disconnect )"
         android:onClick="toPySpark"
         android:backgroundTint="#2E4053"
         android:layout_width="wrap_content"
@@ -54,6 +54,18 @@
         app:layout_constraintStart_toStartOf="parent"
         android:layout_marginStart="35dp"
         app:layout_constraintTop_toBottomOf="@+id/LinkGrayLogButton"
+        android:layout_marginTop="5dp" />
+
+    <Button
+        android:id="@+id/LinkCacti"
+        android:text="Cacti - Network Monitoring System"
+        android:onClick="toPySpark"
+        android:backgroundTint="#2E4053"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="35dp"
+        app:layout_constraintTop_toBottomOf="@+id/LinkPySparkButton"
         android:layout_marginTop="5dp" />
 
 

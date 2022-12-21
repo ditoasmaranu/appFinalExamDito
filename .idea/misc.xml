@@ -4,12 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/drawable/cardview.xml" value="0.1" />
+        <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/drawable/ic_baseline_cloud_off_24.xml" value="0.2155" />
         <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/drawable/ic_twotone_filter_drama_24.xml" value="0.219" />
         <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/layout/activity_cloud_server.xml" value="0.10092592592592593" />
-        <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/layout/activity_cslink.xml" value="0.10092592592592593" />
+        <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/layout/activity_cslink.xml" value="0.25" />
         <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/layout/activity_list_quotes.xml" value="0.10092592592592593" />
         <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/layout/card_layout.xml" value="0.22" />
+        <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/layout/card_layout.xml" value="0.1" />
         <entry key="..\:/TUGAS/SEMESTER 5/Pemrograman Aplikasi Mobile/p11/appFinalExamDito/app/src/main/res/layout/item_quote.xml" value="0.22" />
       </map>
     </option>
