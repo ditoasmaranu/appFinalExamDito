@@ -36,7 +36,7 @@ class CSLinkActivity : AppCompatActivity() {
 
     fun toCacti(view: View){
         //berfungsi membuat variabel url dan diisi dengan String url artikel
-        var url = "http://119.2.54.54/cacti";
+        var url = "http://119.2.54.54:8082/cacti";
         //berfungsi untuk membuat intent implicit
         startActivity(
             Intent(Intent.ACTION_VIEW).apply
