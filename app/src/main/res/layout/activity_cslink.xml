@@ -59,7 +59,7 @@
     <Button
         android:id="@+id/LinkCacti"
         android:text="Cacti - Network Monitoring System"
-        android:onClick="toPySpark"
+        android:onClick="toCacti"
         android:backgroundTint="#2E4053"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
